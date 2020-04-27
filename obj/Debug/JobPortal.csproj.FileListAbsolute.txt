@@ -1,0 +1,110 @@
+c:\JobPortal\JobPortal\bin\JobPortal.dll.config
+c:\JobPortal\JobPortal\bin\JobPortal.dll
+c:\JobPortal\JobPortal\bin\JobPortal.pdb
+c:\JobPortal\JobPortal\bin\Antlr3.Runtime.dll
+c:\JobPortal\JobPortal\bin\EntityFramework.dll
+c:\JobPortal\JobPortal\bin\EntityFramework.SqlServer.dll
+c:\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+c:\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Google.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+c:\JobPortal\JobPortal\bin\Microsoft.Web.Infrastructure.dll
+c:\JobPortal\JobPortal\bin\Newtonsoft.Json.dll
+c:\JobPortal\JobPortal\bin\Owin.dll
+c:\JobPortal\JobPortal\bin\System.Web.Helpers.dll
+c:\JobPortal\JobPortal\bin\System.Web.Mvc.dll
+c:\JobPortal\JobPortal\bin\System.Web.Optimization.dll
+c:\JobPortal\JobPortal\bin\System.Web.Razor.dll
+c:\JobPortal\JobPortal\bin\System.Web.WebPages.Deployment.dll
+c:\JobPortal\JobPortal\bin\System.Web.WebPages.dll
+c:\JobPortal\JobPortal\bin\System.Web.WebPages.Razor.dll
+c:\JobPortal\JobPortal\bin\WebGrease.dll
+c:\JobPortal\JobPortal\bin\System.Web.Helpers.xml
+c:\JobPortal\JobPortal\bin\System.Web.Mvc.xml
+c:\JobPortal\JobPortal\bin\System.Web.Optimization.xml
+c:\JobPortal\JobPortal\bin\System.Web.Razor.xml
+c:\JobPortal\JobPortal\bin\System.Web.WebPages.xml
+c:\JobPortal\JobPortal\bin\System.Web.WebPages.Deployment.xml
+c:\JobPortal\JobPortal\bin\System.Web.WebPages.Razor.xml
+c:\JobPortal\JobPortal\bin\Newtonsoft.Json.xml
+c:\JobPortal\JobPortal\bin\Antlr3.Runtime.pdb
+c:\JobPortal\JobPortal\bin\EntityFramework.xml
+c:\JobPortal\JobPortal\bin\EntityFramework.SqlServer.xml
+c:\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+c:\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Google.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+c:\JobPortal\JobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\JobPortal\JobPortal\obj\Debug\JobPortal.dll
+c:\JobPortal\JobPortal\obj\Debug\JobPortal.pdb
+c:\JobPortal\JobPortal\obj\Debug\JobPortal.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\JobPortal.dll.config
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\JobPortal.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\JobPortal.pdb
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\EntityFramework.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Owin.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\WebGrease.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\EntityFramework.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\obj\Debug\JobPortal.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\obj\Debug\JobPortal.dll
+C:\Users\user\Desktop\Job Portal Project\JobPortal\JobPortal\obj\Debug\JobPortal.pdb
